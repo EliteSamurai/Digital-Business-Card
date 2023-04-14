@@ -1,0 +1,1 @@
+A quick intro to Omar Aden, me, included with my personal info. Made with React.
